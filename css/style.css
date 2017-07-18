@@ -79,5 +79,57 @@ header h1 {
 	margin:0 3rem 0 0;
 }
 
+/*
+img[src="images/captain-janeway.png"] {
+  float: right;
+}
+ol {
+  float: left;
+}
+*/
+
+/*instructios*/
+.instructions {
+	border: solid 3px orange;;
+	color:orange;
+
+	font-weight: bold;
+	line-height: 1.5rem;
+}
+
+{
+	float: right;
+}
+
+{
+	float: left;
+}
+
+
+
+img[src="images/captain-janeway.png"]
+
+section:nth-child(2) {
+	background-color: lightgray;
+	padding: 50px 50px 50px 50px;
+	width: 100%;
+	color: #555555;
+	line-height: 1.5;
+
+}
+
+img[src="images/stunning.jpg"] {
+	width: 25rem;
+	display:inline-block;
+	margin-right: 2rem;
+	border:3px solid
+;
+}
+
+
+
+
+
+
 
 
