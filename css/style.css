@@ -126,6 +126,13 @@ img[src="images/stunning.jpg"] {
 ;
 }
 
+img[src="images/stunning.jpg"] {
+	float: left;
+}
+
+span{
+	font-weight: bold;
+}
 
 
 
