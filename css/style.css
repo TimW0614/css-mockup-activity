@@ -80,6 +80,55 @@ header h1 {
 
 
 
+/*
+img[src="images/captain-janeway.png"] {
+  float: right;
+}
+ol {
+  float: left;
+}
+*/
+
+/*instructios*/
+.instructions {
+	border: solid 3px darkorange;;
+	color:darkorange;
+
+	font-weight: bold;
+	line-height: 1.5rem;
+}
+
+.pull-right{
+	float: right;
+}
+
+/*instructios*/
+.instructions {
+	border: solid 3px darkorange;;
+	color:darkorange;
+
+	font-weight: bold;
+	line-height: 1.5rem;
+}
+
+.pull-right{
+	float: right;
+}
+
+.pull-left{
+	float: left;
+}
+
+
+
+img[src="images/captain-janeway.png"] {
+	width: 12rem;
+	border: solid lightgray 3px;
+}
+
+
+
+
 
 
 
