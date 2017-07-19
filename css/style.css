@@ -127,6 +127,87 @@ img[src="images/captain-janeway.png"] {
 }
 
 
+/*
+img[src="images/captain-janeway.png"] {
+  float: right;
+}
+ol {
+  float: left;
+}
+*/
+
+/*instructios*/
+.instructions {
+	border: solid 3px darkorange;;
+	color:darkorange;
+
+	font-weight: bold;
+	line-height: 1.5rem;
+}
+
+.pull-right{
+	float: right;
+}
+
+/*instructios*/
+.instructions {
+	border: solid 3px darkorange;;
+	color:darkorange;
+
+	font-weight: bold;
+	line-height: 1.5rem;
+}
+
+.pull-right{
+	float: right;
+}
+
+.pull-left{
+	float: left;
+}
+
+
+
+img[src="images/captain-janeway.png"] {
+	width: 12rem;
+	border: solid lightgray 3px;
+}
+
+
+section:nth-child(3){
+	text-align: right;
+	color: orange;
+}
+
+table, th, tr, td {
+
+	border: none;
+	border-color: darkorange;
+	width: 100%;
+	table-layout: fixed;
+	text-align: left;
+	margin: 0px 50px 50px 50px;
+}
+
+
+td,tr {
+	background-color: darkorange;
+	color: white;
+
+}
+
+td, th {
+	background-color: darkorange;
+	color: white;
+	padding: 1rem;
+}
+
+
+/*footer*/
+
+
+
+
 
 
 
